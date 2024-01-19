@@ -8,7 +8,7 @@
 
 :mailbox: How to reach me: <a href="mailto:ioritzlope45@gmail.com">ioritzlope45@gmail.com</a>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinfengcs88&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Kevin's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinfengcs88&theme=github_dark&layout=compact&hide_border=true" /></a> |
+| <a href="https://github.com/iorilope/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iorilope&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Ioritz's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iorilope&theme=github_dark&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 a
 ## Top repositories
