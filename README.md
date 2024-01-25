@@ -2,9 +2,9 @@
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Ioritz
 
 
-:school: Currently studying  Cross-platform application development </br>
-:computer: I love PC building and computer hardware</br>
-:video_game: I'm an avid gamer</br>
+🏫 Currently studying  Cross-platform application development </br>
+💻  I love PC building and computer hardware</br>
+🎮 I'm an avid gamer</br>
 
 :mailbox: How to reach me: <a href="mailto:ioritzlope45@gmail.com">ioritzlope45@gmail.com</a>
 
